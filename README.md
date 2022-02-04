@@ -1,9 +1,6 @@
-### Hi there 👋
-
 <!--
-**iamricky/iamricky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Contributions
+
+<img src="https://github-readme-stats.vercel.app/api?username=iamricky&show_icons=true&count_private=true&include_all_commits=true" alt="Stats Card" />
+
+## Most used languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamricky&layout=compact&theme=nord" alt="Top Languages Card" />
+
 -->
